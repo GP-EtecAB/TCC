@@ -1,21 +1,11 @@
 body {
-    background-image: url(/media/blurry-gradient-haikei.svg);
-    height: 100vh;
-    background-position: center;
-    background-size: cover;
-
     margin: 0;
 }
 
-#nav {
-    background-color: blue;
-    height: 40px;
+.logo {
+    transform: scale(.28);
 }
 
-.logo {
-    margin: 5px 0px 0px 10px;
-    
-    font-family: 'Comic Sans MS';
-    font-size: 18px;
-    color: black;
+.navbar {
+    height: 68px;
 }
