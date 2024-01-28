@@ -1,11 +1,40 @@
 body {
     margin: 0;
+    background-color: #fff;
 }
 
 .logo {
-    transform: scale(.28);
+    max-width: auto;
+    max-height: 80px;
+
+    margin-left: 400px;
 }
 
 .navbar {
     height: 68px;
+    display: flex;
+    flex-direction: row;
+}
+
+temp {
+
+    margin-left: 700px;
+    margin-top: 20px;
+
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+.woman {
+
+    margin-left: 300px;
+    margin-top: 20px;
+
+}
+
+hr {
+    
 }
